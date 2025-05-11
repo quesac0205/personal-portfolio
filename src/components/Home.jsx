@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 import { HiDownload } from "react-icons/hi";
 import profileImg from "../assets/profile2.jpeg";
 
@@ -30,6 +30,11 @@ const Home = () => {
             <HiDownload style={{ marginRight: "0.5rem" }} />
             Resume
           </a>
+          <a href="mailto:SachinBansal@cmail.carleton.ca" className="btn dark">
+            <FaEnvelope style={{ marginRight: "0.5rem" }} />
+            Contact
+          </a>
+
         </div>
       </div>
     </section>
