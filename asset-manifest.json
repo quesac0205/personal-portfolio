@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.84e878ee.css",
+    "main.js": "/personal-portfolio/static/js/main.71e34b36.js",
+    "static/js/453.b21437c2.chunk.js": "/personal-portfolio/static/js/453.b21437c2.chunk.js",
+    "static/media/education-bg.png": "/personal-portfolio/static/media/education-bg.9159b5e9b26ce63dc11a.png",
+    "static/media/experience-bg.jpg": "/personal-portfolio/static/media/experience-bg.9159b5e9b26ce63dc11a.jpg",
+    "static/media/contact-bg.jpg": "/personal-portfolio/static/media/contact-bg.99f5cc560facb27912ba.jpg",
+    "static/media/projects-bg.jpg": "/personal-portfolio/static/media/projects-bg.1c23ff5b4a47950d36cc.jpg",
+    "static/media/skills-bg.jpg": "/personal-portfolio/static/media/skills-bg.44a653b53d669bf04a06.jpg",
+    "static/media/project1.jpg": "/personal-portfolio/static/media/project1.499a6c62438ba6a9647b.jpg",
+    "static/media/background.png": "/personal-portfolio/static/media/background.4a7729a2dc36216e03cf.png",
+    "static/media/algonquin.png": "/personal-portfolio/static/media/algonquin.e6717de333f2943f23b6.png",
+    "static/media/profile2.jpeg": "/personal-portfolio/static/media/profile2.2d32ae6f6834a5719f4d.jpeg",
+    "static/media/clc.jpg": "/personal-portfolio/static/media/clc.4dcf70d84f3cfa59efa4.jpg",
+    "static/media/carleton.png": "/personal-portfolio/static/media/carleton.895cb6b9479184f12b88.png",
+    "static/media/nextGen.jpg": "/personal-portfolio/static/media/nextGen.c6c3698c33021d932635.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.84e878ee.css.map": "/personal-portfolio/static/css/main.84e878ee.css.map",
+    "main.71e34b36.js.map": "/personal-portfolio/static/js/main.71e34b36.js.map",
+    "453.b21437c2.chunk.js.map": "/personal-portfolio/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e878ee.css",
+    "static/js/main.71e34b36.js"
+  ]
+}
